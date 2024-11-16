@@ -99,3 +99,6 @@ La deuxième page permet d'explorer la base entièrement avec la possibilité de
 • [Package Scrapy](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
 • [Package Streamlit](https://docs.streamlit.io/)
+
+## Contact
+[kpakoum6@gmail.com] 
